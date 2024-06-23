@@ -1,2 +1,2 @@
 # prothon
-Professional project skeleton for Python 
+Professional project skeleton for Python (WIP)
